@@ -36,7 +36,7 @@ uv --version
 Clone the repository:
 
 ```powershell
-git clone https://github.com/Chychyndr/cleanaudiometadata.git
+git clone https://github.com/Chychyndr/audiometadatacleaner.git
 cd audio-metadata-cleaner
 ```
 
