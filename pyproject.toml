@@ -1,0 +1,8 @@
+[project]
+name = "audio-metadata-cleaner"
+version = "1.0.0"
+description = "Simple script for cleaning audio file metadata"
+requires-python = ">=3.10"
+dependencies = [
+    "mutagen>=1.47.0"
+]
